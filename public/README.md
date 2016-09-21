@@ -7,7 +7,7 @@
 A minimalist portfolio page that is like the hyperlinked table of contents for the coursework. The links will be wired as each project is completed.
 
 ## Demo
-<http://p1.troubleU.com/video/>
+<http://www.screencast.com/t/mA2ak8f2m5Q>
 
 ## Details for teaching team
 No login required.
