@@ -1,0 +1,27 @@
+/* This is project 1 - p1 / CSCI-E15 Fall 2016 / Thomas S. Narro */
+
+div,
+p {
+    font-family: 'Caveat Brush', monospace;
+    text-align: center;
+}
+
+div {
+    padding: 5px;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.container2 {
+    background-color: #9acd32;
+}
+
+.container3 {
+    background-color: #a9a9a9;
+}
+
+.container4 {
+    background-color: #00bfff;
+}
